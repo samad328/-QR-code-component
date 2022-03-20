@@ -7,7 +7,6 @@
     align-items: center;
     .inner{
     width: 320px;
-    opacity: 0.5;
     height: 500px;
     background-color: rgb(255, 255, 255);
     margin-top: 8.2rem;
@@ -33,6 +32,10 @@
            }
         }
     }
+}
+.attribution{
+    text-align: center;
+    margin-top: 1rem;
 }
 
 @media screen and ( min-width:1440px) {
